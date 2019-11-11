@@ -19,5 +19,12 @@ hello <- function() {
 
 library(usethis)
  usethis::use_github()
+ browse_github_token()
+
+usethis::edit_r_environ()
 
 
+
+
+
+ )
